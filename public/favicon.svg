@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="24" fill="#111315"/>
+  <!-- Geometric P mark -->
+  <!-- Top loop (Charcoal / Graphite) -->
+  <path d="M 28 32 L 80 32 C 94 32 104 42 104 56 C 104 70 94 80 80 80 L 64 80 L 52 68 L 78 68 C 84 68 88 63 88 56 C 88 49 84 44 78 44 L 40 44 L 28 32 Z" fill="#F5F5F2"/>
+  <!-- Angled fold ribbon (Petroleum Blue Accent) -->
+  <path d="M 28 48 L 52 68 L 40 80 L 28 68 Z" fill="#244B5A"/>
+  <!-- Lower vertical stem -->
+  <path d="M 28 48 L 28 92 L 40 80 L 40 68 Z" fill="#3D444C"/>
+</svg>
